@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ragomoocue.tanhaiwei.com/sitemap.xml
